@@ -1,0 +1,9 @@
+.meeting-place-individual{
+    width: 40vw;
+    height: 60vh;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
